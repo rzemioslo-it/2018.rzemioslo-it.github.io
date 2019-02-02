@@ -1,3 +1,13 @@
-docs/pliki
-docs/screeny
-docs/icon
+### General ###
+*.lock
+
+### Jekyll ###
+_site/
+
+### Sass ###
+.sass-cache
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
